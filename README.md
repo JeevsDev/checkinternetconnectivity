@@ -1,16 +1,17 @@
-# checkinternetconnectivity
+# Check Internet Connectivity
 
-A new Flutter project.
+A Flutter project to check internet connectivity in the background.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this repository and you're good to go.
 
-A few resources to get you started if this is your first Flutter project:
+Tools I used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- VS Code
+- Android Studio
+- Android Emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Questions?? Mail me @ jeevandevasiajohn@gmail.com
+
+Thank You <3
